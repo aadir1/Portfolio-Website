@@ -14,7 +14,6 @@
 .navlist{
     display: flex;
     gap: 3.5rem;
-    
     height: 15vh;
     width: 100%;
     justify-content: center;
@@ -32,9 +31,7 @@
 }
 .left-container,.right-container{
     height: 100vh;
-
 }
-
 .left-container{
     background-color: #262525;
     width: 70%;
